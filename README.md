@@ -11,6 +11,11 @@ Demonstrating various clustering algorithms and associated visualizations in Pyt
 See [Avoiding common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6) by Tom Ronan, Zhijie Qi, and Kristen M. Naegle.
 
 
+
+-----
+
+-----
+
 ### Technical notes
 
 This repository builds largely on [my binderized 3D scatter plot repostiory](https://github.com/fomightez/3Dscatter_plot-binder) for the needed packages as I started development there. I later added Scikit-Learn (Sklearn) so didn't need to install it in this repostiory. Kept advanced items from [my binderized 3D scatter plot repostiory](https://github.com/fomightez/3Dscatter_plot-binder) even though not intially needed here because I hope to add the use of widgets for adding data here as well.
