@@ -2,7 +2,7 @@
 
 
 # cluster_analysis-binder
-Demonstrating various clustering algorithms in Python, all provided in and actively useable form via MyBinder.org.
+Demonstrating various clustering algorithms and associated visualizations in Python, all provided in and actively useable form via MyBinder.org.
 
 
 --------------------------
@@ -13,7 +13,7 @@ See [Avoiding common pitfalls when clustering biological data](https://stke.scie
 
 ### Technical notes
 
-This repository builds largely on [my binderized 3D scatter plot repostiory](https://github.com/fomightez/3Dscatter_plot-binder) for the needed packages as I started development there. I later added Scikit-Learn (Sklearn) so didn't need to install it in this repostiory.
+This repository builds largely on [my binderized 3D scatter plot repostiory](https://github.com/fomightez/3Dscatter_plot-binder) for the needed packages as I started development there. I later added Scikit-Learn (Sklearn) so didn't need to install it in this repostiory. Kept advanced items from [my binderized 3D scatter plot repostiory](https://github.com/fomightez/3Dscatter_plot-binder) even though not intially needed here because I hope to add the use of widgets for adding data here as well.
 
 
 --------------------
