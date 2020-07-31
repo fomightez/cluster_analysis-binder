@@ -21,6 +21,7 @@ Notebook content demonstrates:
 - k-means clustering
 - DBSCAN clustering (DBSCAN = Density-Based Spatial Clustering of Applications with Noise)
 - HDBSCAN clustering (HSBSCAN = Hierarchical Density-Based Spatial Clustering of Applications with Noise)
+- Comparing clustering results
 
 
 
