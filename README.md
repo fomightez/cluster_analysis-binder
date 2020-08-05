@@ -12,7 +12,7 @@ Click any 'launch binder' badge on this page to get started.
 ### Details
 
 
-See [Avoiding common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6) by Tom Ronan, Zhijie Qi, and Kristen M. Naegle for useful background.
+See [Avoiding common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6) by Tom Ronan, Zhijie Qi, and Kristen M. Naegle (2016) for useful background.
 
 Notebook content demonstrates:
 
