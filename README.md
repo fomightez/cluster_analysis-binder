@@ -22,6 +22,7 @@ Notebook content demonstrates:
 - DBSCAN clustering (DBSCAN = Density-Based Spatial Clustering of Applications with Noise)
 - HDBSCAN clustering (HSBSCAN = Hierarchical Density-Based Spatial Clustering of Applications with Noise)
 - Comparing clustering results
+- Examining variation in clustering results
 
 
 
