@@ -6,7 +6,7 @@ seaborn
 plotly
 statsmodels
 scipy
-sklearn
+scikit-learn
 hdbscan
 patsy
 numpy
