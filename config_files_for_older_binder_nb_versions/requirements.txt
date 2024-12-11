@@ -1,3 +1,4 @@
+jupyterlab>=2.0.1 #But don't default to JupyterLab because I don't think Plotly demos work there yet
 pandas
 xlrd
 matplotlib
@@ -19,3 +20,4 @@ pyarrow
 cufflinks
 voila
 ipywidgets
+jupyter_contrib_nbextensions
